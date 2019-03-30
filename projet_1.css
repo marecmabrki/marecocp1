@@ -213,7 +213,7 @@ h4 {
 }
 
 .portfolio {
-	margin: 30px;
+	margin: 10px;
 }
 
 #left_arrow {
@@ -719,7 +719,7 @@ input, textarea {
  	}
 	
  	.portfolio {
- 		margin: 0px;
+ 		margin: 20px;
  	}
 
  	.portfolio .liseret {
@@ -746,3 +746,4 @@ input, textarea {
 		left: 10px;
 	}
 }
+
